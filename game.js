@@ -9,7 +9,7 @@ async function main() {
     const userInput = answer.trim().toLowerCase();
 
     if (choices.includes(userInput)) {
-        console.log("You chose " + {userInput});
+        console.log("You chose " + userInput);
     } else {
         console.log("Error!! Please choose and option!!");
     }
