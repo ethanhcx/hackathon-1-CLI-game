@@ -2,7 +2,8 @@
 
 A simple version of the classic game written in JavaScript and played via the CLI.
 
-To install: clone the GitHub repo, change to the directory, and install dependencies using `npm i`
+To install: 
+- Clone the GitHub repo, change to the directory, and install dependencies using `npm i`
 
 To run:
 1. Once in the game directory, run `node game.js`
